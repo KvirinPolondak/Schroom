@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SYS_JTMS_SWDIO Pin=X5-2
+Removed Pin From Net: NetName=SYS_JTCK-SWCLK Pin=X5-3
+Added Pin To Net: NetName=SYS_JTCK-SWCLK Pin=X5-2
+Added Pin To Net: NetName=SYS_JTMS_SWDIO Pin=X5-3
+Added Room: Name=mikro

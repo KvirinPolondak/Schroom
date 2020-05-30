@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=AGND Pin=Q1-3
+Removed Pin From Net: NetName=AGND Pin=Q2-3
+Removed Pin From Net: NetName=SOLAR Pin=R11-1
+Removed Pin From Net: NetName=AGND Pin=R14-2
+Removed Pin From Net: NetName=AGND Pin=R17-2
+Removed Member From Class: ClassName=mikro Member=Q1
+Removed Member From Class: ClassName=mikro Member=Q2
+Removed Member From Class: ClassName=mikro Member=R11
+Added Pin To Net: NetName=AGND Pin=R12-2
+Added Pin To Net: NetName=AGND Pin=R15-2
+Change Net Name : Old Net Name=SOLAR New Net Name=NetA1_8
+Added Member To Class: ClassName=mikro Member=Component R8 100k
+Added Member To Class: ClassName=mikro Member=Component R9 100k
+Added Member To Class: ClassName=mikro Member=Component R10 1M
+Added Member To Class: ClassName=mikro Member=Component R15 700
+Added Member To Class: ClassName=mikro Member=Component R18 10k
+Added Member To Class: ClassName=mikro Member=Component R19 10k
+Added Member To Class: ClassName=mikro Member=Component Y2 CX5032GA08000H0PST02
+Added Room: Name=mikro
